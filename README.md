@@ -53,6 +53,7 @@ DELETE http://localhost:8080/schedules/{scheduleId}/comments/{commentId}
 ## 📁 프로젝트 구조
 
 \`\`\`
+
 src
  └─ main
      ├─ java
@@ -63,6 +64,7 @@ src
      │       └─ service
      └─ resources
          └─ application.properties
+
 \`\`\`
 
 
