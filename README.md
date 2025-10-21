@@ -4,6 +4,8 @@
 
 ---
 
+일정관리 velog: [벨로그 글 보기](https://velog.io/@shkim6663/Java-Spring-Boot-%EC%9D%BC%EC%A0%95%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%99%84%EC%A0%84-%EC%A0%95%EB%A6%AC)
+
 ##  주요 기능
 1. 일정 관리
 
